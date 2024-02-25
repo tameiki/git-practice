@@ -9,3 +9,4 @@ new-featureブランチで変更
 no-fast-forwardで変更
 conflictブランチで変更
 Github上で更新
+conflict-remoteで更新（pullでコンフリクト発生）
